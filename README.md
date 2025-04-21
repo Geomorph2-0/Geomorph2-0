@@ -1,4 +1,8 @@
 ## Hi there 👋
+🔭 I’m currently working on developing a flight controller from scratch for hobbyists and industries
+A CEO with a big dream and a lazy schedule
+Putting in the effort to achieve my goals and have fun while doing it
+
 
 <!--
 **Geomorph2-0/Geomorph2-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
