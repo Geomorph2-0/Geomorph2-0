@@ -1,6 +1,6 @@
 ## Hi there 👋
 🔭 I’m currently working on developing a flight controller from scratch for hobbyists and industries
-## A CEO with a big dream and a lazy schedule
+A CEO with a big dream and a lazy schedule
 Putting in the effort to achieve my goals and have fun while doing it
 
 
