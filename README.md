@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Simply Me:
  Hi there 👋<br>🔭 I’m currently working on developing a flight controller from scratch for hobbyists and industries.<br>- A CEO with a big dream and a lazy schedule. (I don't think those words should exist in the same sentence).<br>- Putting in the effort to achieve my goals and having fun while doing it.<br>
 
 
