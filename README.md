@@ -1,55 +1,37 @@
-<h1 align="center">Hi 👋, I'm Bolujo Joseph Kehinde</h1>
-<h3 align="center">🚀 Embedded Systems Engineer | UAV Innovator | Full-Stack Developer</h3>
+# Simply Me:
+ Hi there 👋<br>🔭 I’m currently working on developing a flight controller from scratch for hobbyists and industries.<br>- A CEO with a big dream and a lazy schedule. (I don't think those words should exist in the same sentence).<br>- Putting in the effort to achieve my goals and having fun while doing it.<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-bolujo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:realizegeomorph@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Geomorph2-0&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Geomorph2-0&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geomorph2-0&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Geomorph2-0&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Geomorph2-0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 About Me
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- 🔭 Currently building: **Africa’s first indigenous flight controller**
-- 🛠️ Passionate about: **Embedded Systems, UAVs, AI & Robotics**
-- 🌍 Mission: **Engineering scalable African-made tech solutions**
-- 💡 I love turning **ideas → hardware → real-world systems**
-- ⚡ Fun fact: I enjoy breaking systems just to rebuild them better
 
----
+<!--
+**Geomorph2-0/Geomorph2-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 🚀 What I'm Working On
+Here are some ideas to get you started:
 
-- ✈️ **Custom Flight Controller (STM32 + IMU + Sensor Fusion)**
-- 🚗 **IoT Smart Parking System (ESP32 + Web App)**
-- 🌐 **Web-based CBT Platform (Django + Tailwind)**
-
----
-
-## 🧰 Tech Stack
-
-### 👨‍💻 Languages
-`C` `C++` `Python` `JavaScript`
-
-### ⚙️ Embedded & Hardware
-`STM32` `ESP32` `Arduino` `Sensors (MPU6050, BMP180, HMC5883L)`
-
-### 🌐 Web Development
-`HTML` `CSS` `Tailwind` `Django`
-
-### 🧪 Tools & Simulation
-`Proteus` `SimulIDE` `Git` `Linux`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
-
----
-
-## 🧠 Engineering Focus
-
-```text
-Embedded Systems  ████████████████░░░ 80%
-UAV Systems       ██████████████████░ 90%
-Web Development   ████████████░░░░░░░ 60%
-AI/Robotics       █████████░░░░░░░░░░ 50%
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
