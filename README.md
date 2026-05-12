@@ -8,7 +8,7 @@
 *Building systems from silicon up — on African soil.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-bolujo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-geomorph2-0.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://bolujojoseph.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jkbolujo@gmail.com)
 
 </div>
@@ -99,11 +99,11 @@ I'm a Computer Engineering student at **Redeemer's University**, specializing in
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛸 [UAV Flight Controller](https://my-portfolio-geomorph2-0.vercel.app/projects/uav-flight-controller) | Custom FC from scratch — PID, sensor fusion, CAN telemetry | STM32 · C/C++ · FreeRTOS |
-| 🅿️ [Smart Parking System](https://my-portfolio-geomorph2-0.vercel.app/projects/smart-parking-esp32) | IoT parking management with real-time occupancy tracking | ESP32 · MQTT · C |
-| 🔒 [SoC Security Research](https://my-portfolio-geomorph2-0.vercel.app/projects/soc-security-logic-locking) | Logic Locking evaluation for IP protection in SoCs | Vivado · VHDL |
+| 🛸 [UAV Flight Controller](https://bolujojoseph.vercel.app/projects/uav-flight-controller) | Custom FC from scratch — PID, sensor fusion, CAN telemetry | STM32 · C/C++ · FreeRTOS |
+| 🅿️ [Smart Parking System](https://bolujojoseph.vercel.app/projects/smart-parking-esp32) | IoT parking management with real-time occupancy tracking | ESP32 · MQTT · C |
+| 🔒 [SoC Security Research](https://bolujojoseph.vercel.app/projects/soc-security-logic-locking) | Logic Locking evaluation for IP protection in SoCs | Vivado · VHDL |
 
-➡️ **[See full portfolio →](https://my-portfolio-geomorph2-0.vercel.app)**
+➡️ **[See full portfolio →](https://bolujojoseph.vercel.app)**
 
 ---
 
