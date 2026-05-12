@@ -1,37 +1,112 @@
-# Simply Me:
- Hi there 👋<br>🔭 I’m currently working on developing a flight controller from scratch for hobbyists and industries.<br>- A CEO with a big dream and a lazy schedule. (I don't think those words should exist in the same sentence).<br>- Putting in the effort to achieve my goals and having fun while doing it.<br>
+<div align="center">
 
+<img src="https://visitcount.itsvg.in/api?id=Geomorph2-0&icon=6&color=6" alt="Profile views" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-bolujo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:realizegeomorph@gmail.com) 
+# Joseph Kehinde Bolujo
+### Hardware Engineer · Embedded Systems Developer
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Geomorph2-0&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Geomorph2-0&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geomorph2-0&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+*Building systems from silicon up — on African soil.*
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Geomorph2-0&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-bolujo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-geomorph2-0.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jkbolujo@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Geomorph2-0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
 
+I'm a Computer Engineering student at **Redeemer's University**, specializing in embedded systems and UAV architecture. I work closest to the metal — designing circuits, writing firmware, and integrating complex hardware systems that exist in the physical world, not just on a screen.
 
-<!--
-**Geomorph2-0/Geomorph2-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛸 **Currently building:** Custom UAV Flight Controller on STM32 — PID control loops, sensor fusion, and CAN bus telemetry
+- 🔬 **Also working on:** SoC security research — evaluating Logic Locking techniques in Vivado
+- 🌍 **Mission:** Building world-class hardware solutions on African soil
+- 💬 **Ask me about:** Embedded C/C++, flight controller design, PCB layout, ESP32/STM32, IoT systems
 
-Here are some ideas to get you started:
+> *"A CEO with a big dream — putting in the effort to achieve goals and having fun doing it."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,git,github,vscode,cmake&theme=dark)](https://skillicons.dev)
+
+</div>
+
+**Hardware & Embedded**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat&logo=platformio&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC4D7?style=flat&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=flat&logo=xilinx&logoColor=white)
+
+**Web (Portfolio project)**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Geomorph2-0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=14b8a6&icon_color=14b8a6" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Geomorph2-0&theme=tokyonight&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geomorph2-0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=14b8a6" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Geomorph2-0&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Geomorph2-0&theme=tokyo-night&hide_border=true&color=14b8a6&line=14b8a6&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🚀 Featured Work
+
+| Project | Description | Stack |
+|---|---|---|
+| 🛸 [UAV Flight Controller](https://my-portfolio-geomorph2-0.vercel.app/projects/uav-flight-controller) | Custom FC from scratch — PID, sensor fusion, CAN telemetry | STM32 · C/C++ · FreeRTOS |
+| 🅿️ [Smart Parking System](https://my-portfolio-geomorph2-0.vercel.app/projects/smart-parking-esp32) | IoT parking management with real-time occupancy tracking | ESP32 · MQTT · C |
+| 🔒 [SoC Security Research](https://my-portfolio-geomorph2-0.vercel.app/projects/soc-security-logic-locking) | Logic Locking evaluation for IP protection in SoCs | Vivado · VHDL |
+
+➡️ **[See full portfolio →](https://my-portfolio-geomorph2-0.vercel.app)**
+
+---
+
+<div align="center">
+<sub>Hardware first. Always.</sub>
+</div>
