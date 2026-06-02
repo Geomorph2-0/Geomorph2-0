@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=Geomorph2-0&icon=6&color=6" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Geomorph2-0&style=for-the-badge&color=14b8a6&label=PROFILE+VIEWS" alt="Profile views" />
 
 # Joseph Kehinde Bolujo
 ### Hardware Engineer · Embedded Systems Developer
