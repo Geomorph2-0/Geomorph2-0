@@ -61,10 +61,10 @@ I'm a Computer Engineering student at **Redeemer's University**, specializing in
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Geomorph2-0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=14b8a6&icon_color=14b8a6" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Geomorph2-0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=14b8a6&icon_color=14b8a6&show_icons=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Geomorph2-0&theme=tokyonight&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Geomorph2-0&theme=tokyonight&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ I'm a Computer Engineering student at **Redeemer's University**, specializing in
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Geomorph2-0&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Geomorph2-0&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
