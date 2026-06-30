@@ -2,29 +2,30 @@
 
 <img src="https://komarev.com/ghpvc/?username=Geomorph2-0&style=for-the-badge&color=14b8a6&label=PROFILE+VIEWS" alt="Profile views" />
 
-# Joseph Kehinde Bolujo
+# Joseph Bolujo
 ### Hardware Engineer · Embedded Systems Developer
 
 *Building systems from silicon up — on African soil.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-bolujo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://bolujojoseph.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jkbolujo@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Computer Engineering student at **Redeemer's University**, specializing in embedded systems and UAV architecture. I work closest to the metal — designing circuits, writing firmware, and integrating complex hardware systems that exist in the physical world, not just on a screen.
+I work closest to the metal — designing circuits, writing firmware, and integrating hardware systems that exist in the physical world, not just on a screen.
 
-- 🛸 **Currently building:** Custom UAV Flight Controller on STM32 — PID control loops, sensor fusion, and CAN bus telemetry
-- 🔬 **Also working on:** SoC security research — evaluating Logic Locking techniques in Vivado
-- 🌍 **Mission:** Building world-class hardware solutions on African soil
-- 💬 **Ask me about:** Embedded C/C++, flight controller design, PCB layout, ESP32/STM32, IoT systems
+- 🛸 **Currently building:** MB0.1 — a custom UAV FC, dual-IMU architecture with a barometer. PID control, sensor fusion, 10+ min stable flight achieved.
+- 🚁 **Platform:** Custom F450 quadcopter — purpose-built for MB0.1
+- 💳 **Stalled (resuming after graduation):** RTranzact — offline campus payment system with RCoin, a local WiFi digital currency. Placed 2nd at the Interswitch Discovery Series 2025
+- 🤖 **Experimenting:** AI Navigation Agent — helping users actually navigate the tools they're pointed at
+- 🌍 **Mission:** Building world-class hardware on African soil
+- 💬 **Ask me about:** Embedded C/C++, flight controller design, STM32, ESP32, IoT systems, PID tuning
 
-> *"A CEO with a big dream — putting in the effort to achieve goals and having fun doing it."*
+> *"There's no other option but greatness."*
 
 ---
 
@@ -99,9 +100,9 @@ I'm a Computer Engineering student at **Redeemer's University**, specializing in
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛸 [UAV Flight Controller](https://bolujojoseph.vercel.app/projects/uav-flight-controller) | Custom FC from scratch — PID, sensor fusion, CAN telemetry | STM32 · C/C++ · FreeRTOS |
+| 🛸 [MB0.1 Flight Controller](https://bolujojoseph.vercel.app/projects/mb01-flight-controller) | Custom FC — dual-IMU, barometer, PID tuning. 10+ min stable flight on F450 | STM32 · C/C++ · FreeRTOS |
+| 💳 [RTranzact](https://bolujojoseph.vercel.app/projects/rtranzact) | Offline campus payment system with RCoin WiFi currency. 2nd at Interswitch Discovery Series 2025 | ESP32 · WiFi · C |
 | 🅿️ [Smart Parking System](https://bolujojoseph.vercel.app/projects/smart-parking-esp32) | IoT parking management with real-time occupancy tracking | ESP32 · MQTT · C |
-| 🔒 [SoC Security Research](https://bolujojoseph.vercel.app/projects/soc-security-logic-locking) | Logic Locking evaluation for IP protection in SoCs | Vivado · VHDL |
 
 ➡️ **[See full portfolio →](https://bolujojoseph.vercel.app)**
 
